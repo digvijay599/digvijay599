@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **Javasccript,TypeScript,React,Node, Express, SQL Server, MongoDB, PHP, WordPress**
 
-- 📫 How to reach me **digvijaytiwari338@outlook.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/digvijay-tiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="digvijay-tiwari" height="30" width="40" /></a>
