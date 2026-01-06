@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://www.digvijaytiwari.in](https://www.digvijaytiwari.in)
 
-- 📝 I regularly write articles on [Medium](Medium)
-
 - 💬 Ask me about **Javasccript,TypeScript,React,Node, Express, SQL Server, MongoDB, PHP, WordPress**
 
 <h3 align="left">Connect with me:</h3>
