@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divijay599&label=Profile%20views&color=0e75b6&style=flat" alt="divijay599" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divijay599" alt="divijay599" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://www.digvijaytiwari.in](https://www.digvijaytiwari.in)
 
 - 💬 Ask me about **Javasccript,TypeScript,React,Node, Express, SQL Server, MongoDB, PHP, WordPress**
