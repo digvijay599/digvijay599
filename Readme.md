@@ -14,7 +14,7 @@
 
 ## 🧠 Core Expertise
 - **Frontend:** JavaScript, React.js, Next.js, TypeScript (performance, SSR, scalable UI systems)
-- **Backend:** Node.js, Express.js, REST APIs, Microservices
+- **Backend:** Node.js, Express.js, REST APIs, Microservices, PHP, WordPress
 - **Databases:** MongoDB, SQL Server (query optimization, indexing)
 - **Architecture:** Distributed systems, caching, scalability patterns
 - **Cloud & DevOps:** AWS, Docker, CI/CD pipelines
