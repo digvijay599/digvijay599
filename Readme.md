@@ -4,7 +4,7 @@
 ---
 
 ## 💫 About Me:
-- 8+ years building **scalable, high-performance web applications** 
+- 8 years building **scalable, high-performance web applications** 
 - Strong ownership across **frontend + backend (true full stack)** 
 - Focused on **system design, performance optimization, and clean architecture** 
 - Experience working on **high-traffic, production-grade systems** 
